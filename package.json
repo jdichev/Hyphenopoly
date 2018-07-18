@@ -29,7 +29,6 @@
     "example.js",
     "example.html"
   ],
-  "browser": "Hyphenopoly_Loader.js",
   "main": "hyphenopoly.module.js",
   "repository": {
     "type": "git",
